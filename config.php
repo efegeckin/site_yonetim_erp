@@ -4,7 +4,7 @@ session_start();
 $host = "localhost";
 $username = "root";
 $password = "";
-$database = "vatancom";
+$database = "database";
 
 // MySQLi bağlantısı
 $conn = new mysqli($host, $username, $password, $database);
