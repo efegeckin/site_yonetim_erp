@@ -7,6 +7,8 @@
 
 Site, apartman ve blok yönetim süreçlerini dijitalleştirmek, aidat ve gelir-gider takibini kolaylaştırmak amacıyla geliştirilmiş Web tabanlı ERP çözümü.
 
+**`[🔗 Canlı Demo İçin Tıklayın](https://siteyonetim.efegeckin.com.tr)`**
+
 ---
 
 ## 📸 Ekran Görüntüleri
@@ -49,3 +51,13 @@ Progeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 1. **Repoyu klonlayın:**
    ```bash
    git clone [https://github.com/efegeckin/site_yonetim_erp.git](https://github.com/efegeckin/site_yonetim_erp.git)
+
+---
+
+## 🔑 Demo Giriş Bilgileri
+
+- **Yönetici E-posta:** admin@mail.com
+- **Şifre:** 123456
+
+---
+
