@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Anamakine: 127.0.0.1
--- Üretim Zamanı: 11 Eyl 2026, 01:58:40
+-- Üretim Zamanı: 11 Eyl 2026, 02:19:58
 -- Sunucu sürümü: 10.4.32-MariaDB
 -- PHP Sürümü: 8.2.12
 
@@ -426,7 +426,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `ad`, `soyad`, `email`, `telefon`, `rol`, `sifre_hash`) VALUES
-(1, 'Admin', 'Kullanıcı', 'admin@mail.com', '5417673471', 'admin', '$2y$10$4UcO1xPAAPZjmL2xTRDVZuWbnLVk6KdHMlDCD8zWJq.gSRV3tbbfi'),
+(1, 'Admin', 'Kullanıcı', 'admin@mail.com', NULL, 'admin', '$2y$10$4UcO1xPAAPZjmL2xTRDVZuWbnLVk6KdHMlDCD8zWJq.gSRV3tbbfi'),
 (2, 'Kullanici', 'Bir', 'deneme1@mail.com', NULL, 'kullanici', '$2y$10$iDF/ZFeaHygb6jSz1rsxbeJ.ZVLLXU.P.pbucS4wqHewJtIco4veG'),
 (3, 'Kullanıcı', 'İki', 'deneme2@mail.com', NULL, 'kullanici', '$2y$10$b18zvFBPtZp/RPsm2osfEubNKAbrUjQodXr2Da3SS0TtpzwzhB.qW'),
 (4, 'Kullanıcı', 'Üç', 'deneme3@mail.com', NULL, 'kullanici', '$2y$10$g5eqssfzkso74fkXid8Riu1lvE7.CGae.QBRBRhBU9f53Y1tMipzC'),
